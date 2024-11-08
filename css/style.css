@@ -1,0 +1,9 @@
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+}
+.background-image{
+    background-image: url(/images/unsplash_2lWGQ02DGL8.png);
+    height: 500px;
+    background-repeat: no-repeat;
+}
